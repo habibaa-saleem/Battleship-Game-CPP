@@ -1,5 +1,15 @@
 # Battleship-Game-CPP
-An engaging Battleship game built using C++ and SFML, featuring smooth graphics, intuitive gameplay, and intelligent Al for a fun gaming experience.
+An engaging Battleship game built using C++ and SFML, featuring smooth graphics, intuitive gameplay, and intelligent AI for a fun gaming experience.
+
+Getting Started
+
+These instructions will help you set up and run the C++ Battleship Game with SFML on your local machine.
+
+Prerequisites
+Make sure you have the following prerequisites installed on your machine:
+
+C++ compiler (e.g., GCC)
+SFML library (Simple and Fast Multimedia Library)
 
 
 
